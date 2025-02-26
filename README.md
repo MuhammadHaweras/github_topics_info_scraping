@@ -1,4 +1,4 @@
-# Scraping Top 30 Topics from git, and getting info about top 20 repos about that topic
+# Scraping Top 30 Topics from github, and getting info about top 20 repos about that topic
 
 - We're going to scrape https://github.com/topics
 - We'll get a list of topics. For each topic, we'll get topic title, topic page URL and topic description
